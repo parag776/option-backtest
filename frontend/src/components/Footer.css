@@ -1,0 +1,17 @@
+.footer{
+    background: rgba(12, 16, 12, 1);
+}
+
+input{
+    all:"unset";
+    margin-left: "1rem";
+    caret-color: "auto";
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px #2A2A2A inset !important;
+  -webkit-text-fill-color: #ffffff !important;
+}

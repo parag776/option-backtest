@@ -1,0 +1,23 @@
+.searchItem{
+    padding-left: 1em;
+    border-bottom: 1px solid rgb(77, 77, 82, 0.3);
+    background-color: rgb(24,24,24);
+}
+
+.searchItem:hover{
+    background-color: rgb(38, 38, 38);
+}
+
+.searchItem:active{
+    background-color: rgb(55, 55, 55);
+}
+
+.search-div{
+    border-bottom: 1px solid rgb(77, 77, 82, 0.3);
+}
+
+.search-icon{
+    margin: auto;
+    margin-left: 1em;
+    margin-right: 0.5em;
+}
